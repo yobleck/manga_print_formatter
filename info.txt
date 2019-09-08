@@ -1,0 +1,15 @@
+print 8.5" x 11" paper
+dimensions of book: 8.25" x 5.75"
+dimensions of resized individual pages: 8.1'ish x 5.5"
+grid 77x77 pixels per square / snap to grid 6 squares down
+
+print 12" x15" paper
+dimension of book: 8.25" x 5.75"
+dimensions of resized individual pages: 8.1'ish x 5.5"
+grid 50x50 pixels pre square   /   snap to grid 22 squares down or 0,1100
+
+in regards to left right side formatting because double sided printing:
+even numbered pages go on the left and odd numbered pages go on the right (numbering in the page not the file name)
+
+
+use python image library to automate formatting
